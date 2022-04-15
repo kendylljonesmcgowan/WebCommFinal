@@ -11309,7 +11309,7 @@ body {
 }
 
 .page-section2 {
-  padding: 4rem 0;
+  padding: 6rem 0;
 }
 
 .text-white-75 {
@@ -11329,6 +11329,14 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
+  background-color: #fff;
+  opacity: 1;
+}
+
+hr.divider2 {
+  height: 0.2rem;
+  max-width: 2.0rem;
+  margin: 1.0rem auto;
   background-color: #fff;
   opacity: 1;
 }
